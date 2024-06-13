@@ -30,7 +30,7 @@ export
 
 ## Variables Y Argumentos
 - Declaración de variables
-- Argumentos $1 $2 $3 $#
+- Argumentos `$1 $2 $3 $#`
 - Parameter Expansion
 ```
 :=
